@@ -5,7 +5,7 @@
   <div class="container">
     <article class="span8 offset2 article-format role="article">
       <div role="div">
-        {% if page.title %}
+        {% if page.title and page.header == true %}
         <header>
           <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
           {% if page.date %}<p class="meta">{% include post/date.html %}{{ time }}</p>{% endif %}
