@@ -1,0 +1,20 @@
+---
+layout: page
+title: "404"
+date: 2013-05-18 22:52
+comments: false
+sharing: false
+header: false
+footer: false
+---
+# Oops! 404 not found!
+
+你而家有兩條路揀：
+## 第一，做 CD-ROM
+click 返去 [lets9up 主頁]({{ root_url }}) 繼續 9 fing；
+
+## 第二，9 Up 唔駛本
+敲打鍵盤，自己打返篇文黎投稿！題材不限，由 Share 騎呢短片至玩命遊記，寫上癮 ge 甚至可以定期開 Post 成為 9 up blogger。你不是零，拿拿臨 Send 你稱稿來 <info@lets9up.com>。
+
+
+來稿者或申請人請註明筆名、附加插圖最少一張、三十字中文或英文 Description 
