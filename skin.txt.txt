@@ -1,4 +1,0 @@
-skin
-testing
-name
-again
