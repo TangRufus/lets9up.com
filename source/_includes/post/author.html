@@ -5,10 +5,13 @@
 {% else %}
   {% assign author = site.author %}
 {% endif %}
+
+{% if author == "lets9upteam" %}
+	{% assign real_author = "Let's9up Team" %}
+{% elsif author == "lammakwok" %}
+	{% assign real_author = "林馬葛" %}
+{% endif %}
+
 {% if author %}
-  {% if site.googleplus_user %}
-    <span class="byline author vcard">by <a href="https://plus.google.com/{{ site.googleplus_user }}?rel=author"><span class="fn">{{ author }}</span></a></span>
-  {% else %}
-    <span class="byline author vcard">by <span class="fn">{{ author }}</span></span>
-  {% endif %}
+    <span class="byline author vcard">by <a href="/categories/{{ author }}"><span class="fn">{{ real_author }}</span></a></span>
 {% endif %}

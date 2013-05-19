@@ -1,0 +1,15 @@
+{% if post.big_group %}
+  {% assign big_group = post.big_group %}
+{% elsif page.big_group %}
+  {% assign big_group = page.big_group %}
+{% endif %}
+
+{% if big_group == "faq" %}
+	{% assign real_big_group = "FAQ" %}
+{% elsif big_group == "poison" %}
+	{% assign real_big_group = "毒" %}
+{% endif %}
+
+<span class="categories">
+	<a href="categories/{{ big_group }}"><span class="fn">{{ real_big_group }}</a>
+</span>
