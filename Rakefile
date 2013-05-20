@@ -112,6 +112,7 @@ task :new_post, :title do |t, args|
     post.puts "author: "
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
     post.puts "featured: true"  
+    post.puts "cover_photo: " 
     post.puts "big_group: "  
     post.puts "categories: "
     post.puts "---"
