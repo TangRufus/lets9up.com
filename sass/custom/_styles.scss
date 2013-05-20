@@ -33,3 +33,16 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 
 // Add a little horizontal space in dt elements
 .dl-horizontal dt { width: 135px; }
+
+.double_colums{
+	ul{
+		list-style-type:none;
+		width:220px;
+	}
+	li {
+		float:left;
+		margin: 10px 0 0 0;
+		padding: 0 10px 0 0;
+		width:60px;
+	}
+}
