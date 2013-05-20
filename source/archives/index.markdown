@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog Archive
+header: true
 ---
 
 <div id="blog-archives">

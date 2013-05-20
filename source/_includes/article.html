@@ -19,6 +19,9 @@
   </header>
 {% endunless %}
 {% if index %}
+	{% if post.cover_photo %}
+	<img src="{{ site.url }}/images/post/{{ post.cover_photo }}" title="{{ post.title }}" alt="{{ post.title }}" height="110" width="280">
+	 {% endif %}
   <div class="entry-content">{{ content | excerpt }}</div>
   {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
   {% if excerpted == 'true' %}
@@ -27,6 +30,9 @@
     </footer>
   {% endif %}
 {% else %}
+{% if page.cover_photo %}
+	<img src="{{ site.url }}/images/post/{{ page.cover_photo }}" title="{{ page.title }}" alt="{{ page.title }}">
+ {% endif %}
   <div class="entry-content">{{ content }}</div>
 {% endif %}
 {% unless index %}

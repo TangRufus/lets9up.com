@@ -33,6 +33,7 @@ module Jekyll
           @img['alt']    = @img['title'].gsub!(/"/, '&#34;') if @img['title']
         end
         @img['class'].gsub!(/"/, '') if @img['class']
+        @img['src'] = 'http://lets9up.com/images/post' + @img['src']
       end
       super
     end
