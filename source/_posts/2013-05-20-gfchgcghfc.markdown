@@ -5,6 +5,7 @@ date: 2013-05-20 06:54
 author: lammakwok
 title: "gfchgcghfc"
 featured: true
+author: a1234
 big_group: faq
 categories:
 - faq [FAQ]

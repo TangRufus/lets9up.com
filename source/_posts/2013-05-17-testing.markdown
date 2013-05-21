@@ -4,5 +4,6 @@ title: "testing"
 date: 2013-05-17 17:48
 comments: true
 featured: true
+author: 
 categories: 
 ---

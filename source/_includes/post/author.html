@@ -1,3 +1,4 @@
+{% assign author = nil %}
 {% if post.author %}
   {% assign author = post.author %}
 {% elsif page.author %}
@@ -6,10 +7,12 @@
   {% assign author = site.author %}
 {% endif %}
 
-{% if author == "lets9upteam" %}
-	{% assign real_author = "Let's9up Team" %}
-{% elsif author == "lammakwok" %}
+
+{% if author == "lammakwok" %}
 	{% assign real_author = "林馬葛" %}
+{% else%}
+	{% assign real_author = "Let's9up Team" %}
+	{% assign author = "lets9upteam" %}
 {% endif %}
 
 {% if author %}
