@@ -64,20 +64,18 @@ $(function(){
     }
   });
 
-  var githubInfo = $("#gh_repos");
-
-  github.showRepos({
-    user: githubInfo.data('github-user'),
-    count: githubInfo.data('github-repo-count'),
-    skip_forks: githubInfo.data('github-skip-forks'),
-    target: githubInfo
-  });
-
   var $container = $('#post-container');
   $container.imagesLoaded(function(){
     $container.masonry({
       itemSelector : '.span4'
     });
+  });
+
+  $("a[href^='http://']").each(function(){
+      var thehref = $(this).attr('href');
+      if(!thehref.match(window.location.host)){
+          $(this).attr('target', '_blank');
+      }
   });
 
 });
