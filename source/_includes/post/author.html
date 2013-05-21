@@ -1,19 +1,4 @@
-{% assign author = nil %}
-{% if post.author %}
-  {% assign author = post.author %}
-{% elsif page.author %}
-  {% assign author = page.author %}
-{% else %}
-  {% assign author = site.author %}
-{% endif %}
-
-
-{% if author == "lammakwok" %}
-	{% assign real_author = "林馬葛" %}
-{% else%}
-	{% assign real_author = "Let's9up Team" %}
-	{% assign author = "lets9upteam" %}
-{% endif %}
+{% include post/author_meta.html %}
 
 {% if author %}
     <span class="byline author vcard">by <a href="/categories/{{ author }}"><span class="fn">{{ real_author }}</span></a></span>

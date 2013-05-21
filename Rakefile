@@ -111,6 +111,8 @@ task :new_post, :title do |t, args|
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "author: "
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "description: "
+    post.puts "keywords: "
     post.puts "featured: true"  
     post.puts "cover_photo: " 
     post.puts "big_group: "  
