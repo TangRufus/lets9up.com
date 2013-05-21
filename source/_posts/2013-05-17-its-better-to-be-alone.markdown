@@ -5,8 +5,8 @@ title: "it's better to be alone"
 date: 2013-05-17 03:58
 comments: true
 cover_photo: yuen_wedding.jpg
-description: diu nei lo mo
-keywords: ting diu fuck testing
+description: 你我他diu nei lo mo
+keywords: 你我, 他, ting diu, fuck testing
 big_group: poison
 categories: 
 - testing [測試]
