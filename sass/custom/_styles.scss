@@ -50,12 +50,17 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 
 // Hero Banner
 #hero {
-  height: 250px;
+  height: 280px;
 }
+
+#hero-inner {
+  margin-top: 10px;
+}
+
 #front-wrapper {
-  margin-top: 250px;
+  margin-top: 280px;
 }
 
 .tooltip.top.home {
-  margin-top: -253px;
+  margin-top: -283px;
 }
