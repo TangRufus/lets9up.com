@@ -1,3 +1,4 @@
-- poison [毒] 
+﻿- poison [毒] 
 - faq [FAQ] 
 - testing [測試]
+- so [悶]
