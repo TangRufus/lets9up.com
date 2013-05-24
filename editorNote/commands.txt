@@ -22,3 +22,4 @@ $ git add .
 $ git ci -am "blog update 24 May 2013 19:00"
 $ git push
 $ rake gen_deploy
+$ rake notify
