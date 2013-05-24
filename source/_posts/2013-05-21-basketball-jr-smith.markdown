@@ -28,6 +28,8 @@ categories:
 ```nxcmsnbcmn code ```
 
 
+ {% img /pnd.jpeg "title text" %}
+
 ## 到底圖中的 JR Smith 和黑天鵝有咩分別？
 # Vimeo example
 
