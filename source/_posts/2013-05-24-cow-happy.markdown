@@ -2,12 +2,19 @@
 layout: post
 comments: true
 date: 2013-05-24 19:56
-author: 
-title: "cow happy "
+author: lets9upteam
+title: 牛的笑容
 description: 
-keywords: 
+keywords: 牛歡喜, cow happy
 featured: true
-cover_photo: 
-big_group: 
+cover_photo: cowhappy.jpg
+big_group: funnyphoto
 categories: 
+- lets9upteam [Let's9up Team]
+- food [食物]
+- funnyphoto [9up Photo]
 ---
+
+**牛的笑容**、**牛開心** 和 **牛歡喜**的分別在哪？
+
+最重要，到底係咩味呢？牛歡喜呢味野，其實Let's9up Team食過XDDD，下次同大家分享一下。
