@@ -115,7 +115,7 @@ task :new_post, :title do |t, args|
     post.puts "keywords: "
     post.puts "featured: true"  
     post.puts "cover_photo: " 
-    post.puts "big_group: "  
+    post.puts "big_groups: "  
     post.puts "categories: "
     post.puts "---"
   end

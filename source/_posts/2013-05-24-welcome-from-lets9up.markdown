@@ -9,7 +9,8 @@ description: "你有你嗡，我有我 Up，Let’s9up 我們希望聚一班人 
 keywords: Let's 9up, lets9up, let's9up, about, 9fing, 9hea, 
 featured: true
 cover_photo: 
-big_group: 
+big_groups: 
+- faq [FAQ]
 categories: 
 - faq [FAQ]
 - lets9upteam [Let's9up Team]

@@ -1,15 +1,11 @@
-{% if post.big_group %}
-  {% assign big_group = post.big_group %}
-{% elsif page.big_group %}
-  {% assign big_group = page.big_group %}
-{% endif %}
-
-{% if big_group == "faq" %}
-	{% assign real_big_group = "FAQ" %}
-{% elsif big_group == "poison" %}
-	{% assign real_big_group = "毒" %}
-{% endif %}
-
-<span class="categories">
-	posted in <a href="categories/{{ big_group }}"><span class="fn">{{ real_big_group }}</a>
+{% capture big_group %}{% if post %}{{ post.big_groups | big_groups_links | size }}{% else %}{{ page.big_groups | big_group_links | size }}{% endif %}{% endcapture %}
+{% unless big_group == '0' %}
+posted in
+<span class="big_groups"> posted in 
+  {% if post %}
+    {{ post.big_groups | big_group_links }}
+  {% else %}
+    {{ page.big_groups | big_group_links }}
+  {% endif %}
 </span>
+{% endunless %}

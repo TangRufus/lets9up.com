@@ -8,7 +8,8 @@ description:
 keywords: 牛歡喜, cow happy
 featured: true
 cover_photo: cowhappy.jpg
-big_group: funnyphoto
+big_groups: 
+- food [食物]
 categories: 
 - lets9upteam [Let's9up Team]
 - food [食物]
