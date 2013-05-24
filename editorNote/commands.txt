@@ -1,0 +1,24 @@
+$ cd lets9up
+$ yari 1.9.3
+$ set LC_ALL=zh_TW.UTF-8
+$ set LANG=zh_TW.UTF-8
+$ git pull
+//-----------------------
+
+$ rake new_post
+>> english title
+
+//-----------------------
+
+$ rake preview
+--> localhost:4000
+--> contrl + C
+--> Y
+
+//-----------------------
+$ git pull
+$ git status
+$ git add .
+$ git ci -am "blog update 24 May 2013 19:00"
+$ git push
+$ rake gen_deploy
