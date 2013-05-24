@@ -1,6 +1,7 @@
 # Cheat Sheet
 
 Don't use #, start with ##
+<!-- more --> = read on
 
 ## Overview
 
