@@ -16,7 +16,7 @@
   {% else %}
   {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
   {% endif %}
-   <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
+   <meta name="description" property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
@@ -29,17 +29,14 @@
   <link href='http://fonts.googleapis.com/css?family=Cantarell' rel='stylesheet' type='text/css'>
   <link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
-  <meta name="og:type" content="website" />
-  <meta name="og:site_name" content="{{ site.title }}" />
-  <meta name="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta name="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
-  <meta name="og:url" content="{{ site.url }}{{ page.url }}"/>
+  <meta property="og:image" content="{{ site.url }}/images/post/{{ page.cover_photo }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta name="url" content="{{ site.url }}{{ page.url }}">
-  {% if page.categories %}
-  <meta name="subject" content="{{ page.categories }}"/>
-  <meta name="category" content="{{ page.categories }}"/>
-  {% endif %}
   <meta name="distribution" content="global">
+  <meta property="og:updated_time" content="{{ page.date }}"> 
   {% include custom/head.html %}
 
 </head>
