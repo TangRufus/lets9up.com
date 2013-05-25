@@ -1,0 +1,22 @@
+---
+layout: post
+comments: true
+date: 2013-05-26 02:23
+author: lets9upteam
+title: "JR Smith與天鵝"
+description: 到底圖中的JR Smith和黑天鵝有咩分別？無論點都好啦，雖然我好鐘意睇你打波，夠喪夠搞笑，但今年辛苦晒，你可以提早放暑假了。
+keywords: 黑天鵝, Black Swan, Swan Lake, JR Smith, NYK, New York Knicks, Knicks, NBA, Basketball, NBA memes, NBA Bloopers 
+featured: true
+cover_photo: basketball.jpg
+big_groups: 
+- 9upphoto [9up Photo]
+categories: 
+- lets9upteam [Let's9up Team]
+- 9upphoto [9up Photo]
+---
+籃球迷mode:
+
+到底圖中的JR Smith和黑天鵝有咩分別？
+無論點都好啦，雖然我好鐘意睇你打波，夠喪夠搞笑，但今年辛苦晒，你可以提早放暑假了。
+
+{% img /swanlake.jpg "title text" %}
