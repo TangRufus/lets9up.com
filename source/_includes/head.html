@@ -5,6 +5,7 @@
 <head>
   <meta charset="utf-8">
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  {% include custom/head.html %}
   {% include post/author_meta.html %}
   <meta name="author" content="{{ real_author }}">
   <link rel="author" href="humans.txt">
@@ -22,7 +23,6 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
   <link rel="canonical" href="{{ canonical }}">
   <link href="{{ root_url }}/favicon.png" rel="icon">
@@ -37,6 +37,4 @@
   <meta name="url" content="{{ site.url }}{{ page.url }}">
   <meta name="distribution" content="global">
   <meta property="og:updated_time" content="{{ page.date }}"> 
-  {% include custom/head.html %}
-
 </head>
