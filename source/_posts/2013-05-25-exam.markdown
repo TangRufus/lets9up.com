@@ -1,0 +1,18 @@
+---
+layout: post
+comments: true
+date: 2013-05-25 23:03
+author: lets9upteam
+title: 考試趣圖
+description: 
+keywords: 考試, 屌, 高分, 中指
+featured: true
+cover_photo: exam.jpg
+big_groups: 
+- 9upphoto [9up Photo]
+categories: 
+- 9upphoto [9up Photo]
+- lets9upteam [Let's9up Team]
+---
+
+Let's9up Team知道大學差不多考完試，呢張圖應該可以送比你最親最愛的好朋友。求學不是求分數，每一次派成績我都係咁同自己講。好小學雞feel tim.
