@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 comments: true
 date: 2013-05-24 19:27
@@ -8,7 +7,7 @@ title: "Welcome from let's9up"
 description: "你有你嗡，我有我 Up，Let’s9up 我們希望聚一班人 9 Share，9 Hea，9 Fing，9 睇野，9 寫。"
 keywords: Let's 9up, lets9up, let's9up, about, 9fing, 9hea, 
 featured: true
-cover_photo: 
+cover_photo: logo.png
 big_groups: 
 - faq [FAQ]
 categories: 
