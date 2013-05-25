@@ -13,7 +13,7 @@ big_groups:
 categories: 
 - lets9upteam [Let's9up Team]
 - food [食物]
-- funnyphoto [9up Photo]
+- 9upphoto [9up Photo]
 ---
 
 **牛的笑容**、**牛開心** 和 **牛歡喜**的分別在哪？
