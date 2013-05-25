@@ -8,7 +8,8 @@ description: 作為一名麻雀賭徒表示：我好葡萄。中華英雄: 鄭�
 keywords: 悉尼, 麻雀,海港大橋頂端, One piece, 中華英雄, 白胡子, 華英雄, 鄭伊健, Mahjohn, Gambling, Syndey, 
 featured: true
 cover_photo: mahjohn.jpg
-big_groups: - 9upphoto [9up Photo]
+big_groups: 
+- 9upphoto [9up Photo]
 categories: 
 - lets9upteam [Let's9up Team]
 - 9upphoto [9up Photo]
