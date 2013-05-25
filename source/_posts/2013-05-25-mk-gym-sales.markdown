@@ -2,7 +2,7 @@
 layout: post
 comments: true
 date: 2013-05-25 23:16
-author: 
+author: lammakwok
 title: 旺角街頭的健身Sales
 description: 每一次行去旺角E1出口近朗豪坊果條路仔，都會比好多、很多、好很多的健身教練哥哥Sell我參加健身計劃。教練哥哥們，你地人生得高，個樣令我羨慕，仲電卷毛，好有型。相反，我就是阿源的身型、阿源的高度、阿源的髮型。
 keywords: 旺角, MongKok, MK, Gym, Sales, Gym Sales, MongKong Hong Kong, 朗豪坊, MK MTR, 旺角地鐵站, Langham Place, 健身, 旺角街頭
