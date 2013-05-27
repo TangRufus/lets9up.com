@@ -26,7 +26,8 @@
   {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
   {% if excerpted == 'true' %}
     <footer>
-      <a rel="full-article" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
+     
+	  <button class="btn btn-primary" type="button"> <a rel="full-article" class="white" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a></button>
     </footer>
   {% endif %}
 {% else %}
