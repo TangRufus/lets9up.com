@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://lets9up.com/</loc>
-    <lastmod>2013-05-28T01:13:46+08:00</lastmod>
+    <lastmod>2013-05-28T01:36:12+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -11,6 +11,27 @@
     <lastmod>2013-05-19T20:59:36+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://lets9up.com/bomb-your-mum</loc>
+    <lastmod>2013-05-28T01:02:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lets9up.com/mtrgugu</loc>
+    <lastmod>2013-05-27T23:52:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lets9up.com/jbuilding</loc>
+    <lastmod>2013-05-27T23:45:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
