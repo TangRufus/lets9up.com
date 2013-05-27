@@ -13,6 +13,7 @@ big_groups:
 categories: 
 - lets9upteam [Let's9up Team]
 - 9upphoto [9up Photo]
+- sport [9up Sport]
 ---
 籃球迷mode:
 
