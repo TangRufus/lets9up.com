@@ -1,0 +1,18 @@
+---
+layout: post
+comments: true
+date: 2013-05-28 01:42
+author: lets9upteam
+title: "貓咖啡"
+description: "幾得意...但應該由邊度飲起？"
+keywords: "貓, catcoffee, coffee, 得意, lets9up, lets9upteam, lets9up photo"
+featured: true
+cover_photo: catcoffee.JPG
+big_groups: 
+- 9upphoto [9up Photo]
+categories: 
+- lets9upteam [Let's9up Team]
+- 9upphoto [9up Photo]
+---
+
+幾得意...但應該由邊度飲起？
