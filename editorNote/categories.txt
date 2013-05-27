@@ -8,3 +8,7 @@
 - 9upphoto [9up Photo]
 - 9upnews [9up 趣聞]
 - politics [政治]
+- gag [9up 笑話]
+- salt [少少鹹多多趣]
+- acg [ACG]
+- 9upmemory [9up 回憶]

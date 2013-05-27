@@ -3,7 +3,7 @@ layout: post
 comments: true
 date: 2013-05-27 14:47
 author: lets9upteam
-title: "麥當勞"
+title: "麥當爐"
 description: 說好的牛河呢？我唔要呢個啊？話時話個飯係唔係J-able
 keywords: "lets9upteam, lets9up, mcdonald, hongkong mcdonald, 打邊爐, 麥當勞" 
 featured: true

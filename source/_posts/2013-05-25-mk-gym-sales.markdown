@@ -13,7 +13,7 @@ big_groups:
 categories:
 - lammakwok [林馬葛]
 - strangephenomenon [社會怪象]
-- MK [旺角街頭] 
+- mk [旺角街頭] 
 ---
 
 每一次行去旺角E1出口近朗豪坊果條路仔，都會比好多、很多、好很多的健身教練哥哥Sell我參加健身計劃。
