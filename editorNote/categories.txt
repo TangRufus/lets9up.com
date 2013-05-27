@@ -12,3 +12,5 @@
 - salt [少少鹹多多趣]
 - acg [ACG]
 - 9upmemory [9up 回憶]
+- sport [9up Sport]
+- 9upvideo [9up Video]
