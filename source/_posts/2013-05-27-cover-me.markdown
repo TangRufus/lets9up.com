@@ -4,8 +4,8 @@ comments: true
 date: 2013-05-27 14:34
 author: lets9upteam
 title: "Cover me"
-description: 笑鳥。我想起我Rmmate，尋日係咁玩Heat Project，我有一刻想用張被笠住佢。
-keywords: Cover me, gun, army, photos, 9up photo, lets9up, lets9up team, 兵 
+description: "笑鳥。我想起我Rmmate，尋日係咁玩Heat Project，我有一刻想用張被笠住佢。"
+keywords: "Cover me, gun, army, photos, 9up photo, lets9up, lets9up team, 兵" 
 featured: true
 cover_photo: coverme.jpg
 big_groups: 

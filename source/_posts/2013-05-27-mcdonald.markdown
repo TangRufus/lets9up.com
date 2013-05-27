@@ -1,0 +1,18 @@
+---
+layout: post
+comments: true
+date: 2013-05-27 14:47
+author: lets9upteam
+title: "麥當勞"
+description: 說好的牛河呢？我唔要呢個啊？話時話個飯係唔係J-able
+keywords: "lets9upteam, lets9up, mcdonald, hongkong mcdonald, 打邊爐, 麥當勞" 
+featured: true
+cover_photo: "mcdonald.jpg" 
+big_groups: 
+- 9upphoto [9up Photo]
+categories: 
+- 9upphoto [9up Photo]
+- lets9upteam [Let's9up Team]
+---
+
+說好的牛河呢？我唔要呢個啊？話時話個飯係唔係J-able
