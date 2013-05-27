@@ -186,7 +186,7 @@ ERR
       else
         slug = title = big_group
       end
-      dir = @context.registers[:site].config['big_group_dir']
+      dir = @context.registers[:site].config['category_dir']
       url = slug.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase
       url = "#{dir}/#{url}" unless dir.nil? or dir.empty?
       "<a class='big_group' href='/#{url}/'>#{title}</a>"
