@@ -21,7 +21,7 @@ categories:
 
 <!-- more -->
 
-{% img /titan.jpeg " titan " %}
+{% img /titan.jpg " titan " %}
 
 當然，巨人熱隨之以來就是很多的改圖和二次創作。例如以下呢一D
 
