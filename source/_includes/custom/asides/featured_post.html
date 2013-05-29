@@ -3,7 +3,7 @@
   {% for post in site.posts limit: site.featured_posts %}
   	{% if post.featured == true %}
     <li>
-      <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ root_url }}{{ post.url }}/">{{ post.title }}</a>
     </li>
 	{% endif %}
   {% endfor %}
