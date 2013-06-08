@@ -4,7 +4,7 @@ comments: true
 date: 2013-05-27 14:11
 author: lets9upteam
 title: "升降機可以做D乜"
-description: 
+description: "內有正野，慎入。What happens in Vegas, Stay in Vegas。到底一架升降機入面可以做D咩？傻的嗎？醉到唔知無CCTV？在升降機度直接開餐=,= 有無咁飢渴啊？我可唔可以比一蚊跟機？"
 keywords:  "Elevator, 升降機, Vegas, Las Vegas, 拉斯維加斯, 扑野, make love, fuck"
 featured: true
 cover_photo: elevator.jpg
@@ -18,9 +18,10 @@ categories:
 ---
 
 內有正野，慎入。
-
-{% youtube HhpIP5o81wM %}
-
 What happens in Vegas, Stay in Vegas。
 
 到底一架升降機入面可以做D咩？傻的嗎？醉到唔知無CCTV？在升降機度直接開餐=,= 有無咁飢渴啊？我可唔可以比一蚊跟機？
+
+<!-- more --> 
+
+{% youtube HhpIP5o81wM %}
